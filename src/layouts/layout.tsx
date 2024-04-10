@@ -1,7 +1,6 @@
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
-import HomePage from '@/pages/HomePage';
 import * as React from 'react';
 
 interface Props {
